@@ -1,0 +1,20 @@
+{
+  "name": "wang-creative-plugins",
+  "interface": {
+    "displayName": "东方影像创作插件"
+  },
+  "plugins": [
+    {
+      "name": "oriental-megastructure",
+      "source": {
+        "source": "local",
+        "path": "./plugins/oriental-megastructure"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Creative"
+    }
+  ]
+}
