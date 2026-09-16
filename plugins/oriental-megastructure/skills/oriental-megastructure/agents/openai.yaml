@@ -1,0 +1,4 @@
+interface:
+  display_name: "东方极简巨构"
+  short_description: "生成极简东方天宫巨构的 Midjourney 提示词"
+  default_prompt: "使用 $oriental-megastructure 生成四组不同场景、可直接复制的 Midjourney 竖屏提示词。"
